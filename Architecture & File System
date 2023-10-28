@@ -1,0 +1,48 @@
+/:
+  / is nothing but the top level directory in linux operating system
+  it is also call root dir
+  it is parent dir for all other dir linux
+/root:
+   it is the home dir for root user
+   it creates workspace for root user
+/home:
+  it is the home dir for other user , other than the root user
+
+/boot: 
+  it contains the bootable files like vmlinuz etc.
+/etc:
+  it contains all default configuration files.
+/usr:
+   it default installation location .
+
+/opt:
+  it optional dir for /usr.
+  it is default location for third party installation.
+/bin:
+  it stores the user commands.
+/sbin:
+ it stores root user command
+/dev:
+  it is default location for /devices like
+  /dev/hda for hard disk
+  /dev/sda for stta disk
+  /dev/vda for virtual disk
+/proc:
+  it is call the virtual dir, whatever data it contains it is not persistent. it will change frequently.
+
+  /proc/meminfo
+  /proc/cpuinfo
+/var:
+  it contains variable file like log files
+  /var/log/
+
+/mnt:
+  it default mount point for any partition.
+  it is by default empty.
+/media:
+   it is default mount point for the any external disk .
+   pendrive,cd ,cd rom
+/lib:
+   it contains the library files .
+
+   
